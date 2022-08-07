@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227489042731",
+    "project_id": "coursecrashapp",
+    "storage_bucket": "coursecrashapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227489042731:android:0a6caa827da6d1b6eff56e",
+        "android_client_info": {
+          "package_name": "com.example.coursecrashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227489042731-64mhbpi1kr5c5a5chl6dg9s67siuiq7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5tbHh3w6VLKpHNhuSgl14OvMO9opp34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227489042731-64mhbpi1kr5c5a5chl6dg9s67siuiq7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
